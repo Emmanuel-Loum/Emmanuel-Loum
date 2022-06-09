@@ -1,6 +1,6 @@
 ![MasterHead](https://about.fb.com/ltam/wp-content/uploads/sites/14/2019/09/data_portabilityprivacy_banner_003_256_30fps-1.gif)
 <h1 align="center">Hi 👋, I'm Emmanuel Loum</h1>
-<h3 align="center">A professionally qualified Data Engineer with excellent experience in buiding data pipeline.</h3>
+<h3 align="center">A professionally qualified Data Engineer with excellent experience in building data pipelines.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-loum&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-loum" /> </p>
