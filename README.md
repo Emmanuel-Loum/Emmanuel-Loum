@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Loum</h1>
 <h3 align="center">A professionally qualified Data Engineer with excellent experience in buiding data pipeline.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.pinterest.com.au/pin/10203536642607573/">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-loum&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-loum" /> </p>
 
