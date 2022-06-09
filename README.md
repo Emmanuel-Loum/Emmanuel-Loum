@@ -1,4 +1,4 @@
-![MasterHead](https://about.fb.com/ltam/wp-content/uploads/sites/14/2019/09/data_portabilityprivacy_banner_003_256_30fps-1.gif)
+![MasterHead](https://thumbs.gfycat.com/IllfatedPessimisticAmericancrocodile.webp)
 <h1 align="center">Hi 👋, I'm Emmanuel Loum</h1>
 <h3 align="center">A professionally qualified Data Engineer with excellent experience in building data pipelines.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
