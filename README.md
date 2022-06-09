@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Cassandra,Airflow**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Docker,AWS,Elasticsearch**
 
 - 📫 How to reach me **oryemaprince62@gmail.com**
 
