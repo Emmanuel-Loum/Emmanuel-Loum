@@ -1,7 +1,7 @@
 [![MasterHead](https://i.gifer.com/1F0a.gif)]
 <h1 align="center">Hi 👋, I'm Emmanuel Loum</h1>
 <h3 align="center">A professionally qualified Data Engineer with excellent experience in buiding data pipeline.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/1F0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-loum&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-loum" /> </p>
 
