@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-loum&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-loum" /> </p>
 
-- 🔭 I’m currently working on **Pinterest-Data-Collection-Pipeline**
+- 🔭 I’m currently working on **Pinterest-Data-Processing-Pipeline**
 
 - 🌱 I’m currently learning **Cassandra,Airflow**
 
