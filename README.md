@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Pinterest-Data-Processing-Pipeline**
 
-- 🌱 I’m currently learning **Cassandra,Airflow**
+- 🌱 I’m currently learning **Grafana**
 
-- 💬 Ask me about **Docker,AWS,Elasticsearch**
+- 💬 Ask me about **Docker,AWS,Elasticsearch,Airflow,Cassandra**
 
 - 📫 How to reach me **oryemaprince62@gmail.com**
 
